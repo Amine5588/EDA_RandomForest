@@ -33,6 +33,7 @@ This repository contains code for analyzing ticket price data and predicting tic
 
 ### Work 
 * Data Processing Steps
+  
 Importing Libraries: Initial setup and importing necessary Python libraries for data analysis.
 
 Understanding the Data: Describes the structure and relationships between provided CSV files—ticket history, cities, stations, and providers.
